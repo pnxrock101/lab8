@@ -1,0 +1,26 @@
+---
+band1:
+  name: NOFX
+  genre: punk
+  favsong: The Death of John Smith
+  other songs:
+    - liked:
+      - Linoleum
+      - Dinosaurs Will Die
+      - The Brews
+band2:
+  name: The Interrupters
+  genre: punk/ska
+  favsong: She's Kerosene
+  other songs:
+    - liked:
+      - Take Back the Power
+      - She Got Arrested
+band3:
+  name: The Dead Kennedys
+  genre: old school punk
+  favsong: Holiday in Cambodia
+  other songs:
+    - liked:
+      - Kill The Poor
+      - Take This Job and Shove It
