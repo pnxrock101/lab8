@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bands>
+    <band>
+        <name>NOFX</name>
+        <genre>punk</genre>
+        <favsong>Death of John Smith</favsong>
+    </band>
+    <band>
+        <name>The Interrupters</name>
+        <genre>punk/ska</genre>
+        <favsong>She's Kerosene</favsong>
+    </band>
+    <band>
+        <name>The Dead Kennedys</name>
+        <genre>old school punk</genre>
+        <favsong>Holiday in Cambodia</favsong>
+    </band>
+</bands>
